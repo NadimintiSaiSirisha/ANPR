@@ -9,12 +9,18 @@ The project proposes and demonstrates customizations over the RPNet architecture
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Python packages:
+   * opencv-python==4.2.0.32
+   * scikit-build
+   * cmake
+   * future
+   * builtins 
+   * imutils
+* OS Version: Windows 10
 
 ### Installing
 
-* How/where to download your program
+* To run the CCPD_Indian version with annotations in the form of .XML files, download the CCPD_Indian code.
 * Any modifications needed to be made to files/folders
 
 ### Executing program
