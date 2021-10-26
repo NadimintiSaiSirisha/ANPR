@@ -21,11 +21,24 @@ The project proposes and demonstrates customizations over the RPNet architecture
 ### Installing
 
 * To run the CCPD_Indian version with annotations in the form of .XML files, download the CCPD_Indian code.
+* 
 * Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
+* Running CCPD_Chinese:
+
+  * train_wR2
+  ```
+  python train_wR2.py -i <training images folder> -n <number of epochs> -b <batch size> -w <wR2.out>
+  ```
+  
+  * train_rpnet:   
+  ```
+  python train_rpnet.py -i <training images folder path> -n <number of epochs> -b <batch size> -w <fh02.out> -t <test images folder path> -p <path of wR2.pth> -m <folder in which       model is to be stored>
+  ```
+
+
 * Step-by-step bullets
 ```
 code blocks for commands
