@@ -50,8 +50,6 @@ Please contact us via [Github issues](https://github.com/NadimintiSaiSirisha/ANP
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [CCPD](https://github.com/detectRecog/CCPD)
 
