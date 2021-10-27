@@ -43,7 +43,7 @@ The project proposes and demonstrates customizations over the RPNet architecture
   ```
 
 ## Help
-Please contact us either via posting your issues: https://github.com/NadimintiSaiSirisha/ANPR/issues 
+Please contact us via [Github issues](https://github.com/NadimintiSaiSirisha/ANPR/issues) or email at pranav.kant.gaur@gmail.com
 
 ## License
 
